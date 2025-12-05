@@ -77,10 +77,6 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/q3k9BK18yjoZEk4U5k/giphy.gif" width="100%" alt="Pixel Art Scenery with Cat" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alifarrayyan29&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
