@@ -1,20 +1,25 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2094F3&width=435&lines=Hi,+I'm+Alif!;Teknik+Informatika+Student;Let's+Code+Together!🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Alif%20Arrayyan&fontSize=70&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=Teknik%20Informatika%20Student&descAlign=50&descSize=20" alt="Header" />
 </div>
 
 ---
 
 <div align="center">
   <a href="https://instagram.com/alifarrayyann">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   &nbsp;
   <a href="mailto:alifarrayyan12345@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
+
+---
+
+### 🚀 Tentang Saya
+- 🔭 Saya mahasiswa **Teknik Informatika**
+- 🌱 Fokus belajar: **Java (OOP)** & **Laravel**
+- 💻 Tertarik dengan: **Python** & **Linux**
 
 ---
 
@@ -25,16 +30,14 @@
 
 ---
 
-### 🐍 Snake Game
+### 🐍 Kontribusi Saya
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alifarrayyan29/alifarrayyan29/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/alifarrayyan29/alifarrayyan29/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </div>
 
 ---
 
-### 🔥 My Stats
+### 📊 Statistik
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifarrayyan29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifarrayyan29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alifarrayyan29&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="stats graph" />
 </div>
