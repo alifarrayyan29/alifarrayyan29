@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%Alif%20Arrayyan&fontSize=70&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=&descAlign=50&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Alif%20Arrayyan&fontSize=70&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=&descAlign=50&descSize=20" alt="Header" />
 </div>
 
 ---
