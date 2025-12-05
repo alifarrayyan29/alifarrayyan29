@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Alif Arrayyan 👋</h1>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSC5798/giphy.gif" width="30"> 
   Tech Stack I'm Learning & Using
 </h3>
 
