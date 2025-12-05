@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Alif%20Arrayyan&fontSize=70&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=&descAlign=50&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Alif%20Arrayyan&fontSize=70&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=Teknik%20Informatika%20Student&descAlign=50&descSize=20" alt="Header" />
 </div>
 
 ---
@@ -16,16 +16,18 @@
 
 ---
 
-### 🚀 Tentang Saya
+### 👋 Tentang Saya
 - 🔭 Saya mahasiswa **Teknik Informatika**
 - 🌱 Fokus belajar: **Java (OOP)** & **Laravel**
 - 💻 Tertarik dengan: **Python** & **Linux**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack I'm Learning & Using
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,php,laravel,html,css,mysql,git,vscode" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&lineCount=1&theme=github_dark&line1=java,python,php,laravel,html,css" alt="Tech Stack 1" />
+  <br>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&lineCount=1&theme=github_dark&line1=mysql,git,github,linux,vscode" alt="Tech Stack 2" />
 </div>
 
 ---
@@ -39,5 +41,7 @@
 
 ### 📊 Statistik
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alifarrayyan29&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifarrayyan29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifarrayyan29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
