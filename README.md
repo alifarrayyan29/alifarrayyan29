@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alif Arrayyan 👋</h1>
+<h1 align="center">Hi there, I'm Muhammad Alif Arrayyan 👋</h1>
 
 <div align="center">
   <a href="https://instagram.com/alifarrayyann">
@@ -13,7 +13,7 @@
 <br>
 
 <h3 align="center">
-   Tech Stack I'm Learning & Using
+  Tech Stack I'm Learning & Using
 </h3>
 
 <div align="center">
@@ -72,6 +72,12 @@
     </td>
   </tr>
 </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coding Cat GIF" />
 </div>
 
 <br>
