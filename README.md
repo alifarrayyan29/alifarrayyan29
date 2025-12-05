@@ -1,23 +1,73 @@
-# Hi there, I'm Alif Arrayyan 👋
+<h1 align="center">Hi there, I'm Alif Arrayyan 👋</h1>
 
-### 🔗 Tech Stack I'm Learning & Using
-<div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  
-  <br/> <br/>
-  
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-</div>
+<h3>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 
+  Tech Stack I'm Learning & Using
+</h3>
 
+<table align='center'>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45" />
+      <br>Java
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45" />
+      <br>Python
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45" />
+      <br>PHP
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="45" height="45" />
+      <br>Laravel
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45" />
+      <br>HTML
+    </td>
+    
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45" />
+      <br>CSS
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45" />
+      <br>MySQL
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
+      <br>Git
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+      <br>GitHub
+    </td>
+    
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="45" height="45" />
+      <br>Linux
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="45" height="45" />
+      <br>VS Code
+    </td>
+    
+    <td align="center" width="90">
+    </td>
+  </tr>
+</table>
 <br>
 
 <div align="center">
