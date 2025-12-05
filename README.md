@@ -1,11 +1,5 @@
 <h1 align="center">Hi there, I'm Alif Arrayyan 👋</h1>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alifarrayyan29&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
-
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSC5798/giphy.gif" width="30"> 
   Tech Stack I'm Learning & Using
@@ -67,4 +61,10 @@
     </td>
   </tr>
 </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alifarrayyan29&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
