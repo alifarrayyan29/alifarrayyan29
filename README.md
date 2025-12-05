@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Alif Arrayyan 👋</h1>
 
 <h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSC5798/giphy.gif" width="30"> 
   Tech Stack I'm Learning & Using
 </h3>
 
@@ -32,6 +33,7 @@
       <br>CSS
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
@@ -54,8 +56,8 @@
       <br>VS Code
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=idea" width="40" height="40" alt="IntelliJ" />
-      <br>IntelliJ
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="Android" />
+      <br>Android
     </td>
   </tr>
 </table>
