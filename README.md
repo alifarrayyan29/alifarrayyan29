@@ -19,13 +19,14 @@
 - 🌱 Sedang mendalami **Web Development dengan Laravel**
 - 💻 Tertarik juga dengan **Python & Linux**
 
-<div align="center">
-  <a href="https://instagram.com/alifarrayyann">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram"/>
+<p align="left">
+  <a href="https://instagram.com/alifarrayyan">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  &nbsp; <a href="mailto:alifarrayyan12345@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/>
-</div>
+  <a href="mailto:alifarrayyan12345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ---
 
@@ -36,7 +37,7 @@
 
 ---
 
-### 🐍 Kontribusi Saya (Game Ular)
+### 🐍 Kontribusi Saya
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alifarrayyan29/alifarrayyan29/output/github-contribution-grid-snake-dark.svg">
@@ -49,6 +50,6 @@
 
 ### 📊 Statistik GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alifarrayyan29&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifarrayyan29&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alifarrayyan29&show_icons=true&theme=dark" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifarrayyan29&layout=compact&theme=dark" height="160" alt="languages graph" />
 </div>
