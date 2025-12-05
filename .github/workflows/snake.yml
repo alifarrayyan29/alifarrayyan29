@@ -1,0 +1,32 @@
+name: Generate Snake
+
+on:
+  # Jadwal update otomatis setiap jam 12 malam
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # Agar bisa dijalankan manual
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      # Langkah untuk menghasilkan gambar ular
+      - uses: Platane/snk@v3
+        with:
+          # GANTI 'USERNAME_GITHUB_KAMU' DI BARIS BAWAH INI!
+          github_user_name: alifarrayyan29
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+      # Langkah untuk menyimpan gambar ke branch terpisah
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
