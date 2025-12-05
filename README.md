@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2094F3&width=435&lines=Halo,+Saya+Alif!;Mahasiswa+Teknik+Informatika;Suka+Java,+Python,+dan+Laravel" alt="Typing SVG" />
+  </a>
+</div>
 
-<!--
-**alifarrayyan29/alifarrayyan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 Tentang Saya
+- 🔭 Saya sedang belajar **Object Oriented Programming (Java)**
+- 🌱 Sedang mendalami **Web Development dengan Laravel**
+- 💻 Tertarik juga dengan **Python & Linux**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Bahasa & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,php,laravel,html,css,mysql,git,github,linux,vscode" />
+</div>
+
+---
+
+### 📊 Statistik GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alifarrayyan29&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifarrayyan29&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+</div>
