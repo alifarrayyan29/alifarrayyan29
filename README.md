@@ -13,6 +13,7 @@
 <br>
 
 <h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSC5798/giphy.gif" width="30"> 
   Tech Stack I'm Learning & Using
 </h3>
 
@@ -67,27 +68,3 @@
       <br>VS Code
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="Android" />
-      <br>Android
-    </td>
-  </tr>
-</table>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifarrayyan29&layout=compact&theme=tokyo-night&hide_border=true" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alifarrayyan29&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alifarrayyan29&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</div>
