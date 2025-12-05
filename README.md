@@ -19,10 +19,13 @@
 - 🌱 Sedang mendalami **Web Development dengan Laravel**
 - 💻 Tertarik juga dengan **Python & Linux**
 
-<p align="left">
-<a href="https://instagram.com/alifarrayyann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="mailto:alifarrayyan12345@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://instagram.com/alifarrayyann">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram"/>
+  </a>
+  &nbsp; <a href="mailto:alifarrayyan12345@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/>
+</div>
 
 ---
 
