@@ -1,5 +1,17 @@
 <h1 align="center">Hi there, I'm Alif Arrayyan 👋</h1>
 
+<div align="center">
+  <a href="https://instagram.com/alifarrayyann">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="mailto:alifarrayyan12345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
+
+<br>
+
 <h3 align="center">
   Tech Stack I'm Learning & Using
 </h3>
@@ -65,5 +77,17 @@
 <br>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifarrayyan29&layout=compact&theme=tokyo-night&hide_border=true" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alifarrayyan29&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alifarrayyan29&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
