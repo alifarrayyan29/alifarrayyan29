@@ -77,10 +77,8 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coding Cat GIF" />
+  <img src="https://media.giphy.com/media/q3k9BK18yjoZEk4U5k/giphy.gif" width="100%" alt="Pixel Art Scenery with Cat" />
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alifarrayyan29&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
